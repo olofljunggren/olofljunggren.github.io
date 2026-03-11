@@ -149,6 +149,9 @@ const Index = () => {
           </div>
 
           <Section title="Employment History" icon={Briefcase}>
+          <TimelineItem title="Systems Engineer" org=">Xamera (Saab Dynamics AB)" period="Aug 2025 – Present">
+          Consultant at Saab through Xamera talent program. Working with Business Unit Missile Systems developement and systems engineering.
+            </TimelineItem>
             <TimelineItem title="Master Thesis" org="Maxar" period="Jan 2025 – Jun 2025">
               Work with monocular depth estimation to potentially improve satellite imagery 3D.
             </TimelineItem>
