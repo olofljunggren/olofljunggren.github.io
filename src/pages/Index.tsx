@@ -92,19 +92,19 @@ const Index = () => {
             />
             <div className="text-center sm:text-left flex-1">
               <h1 className="text-3xl font-extrabold text-foreground tracking-tight">Olof Ljunggren</h1>
-              <p className="text-[hsl(var(--cv-subheading))] font-medium mt-1">MSc Student in Applied Physics and Electrical Engineering</p>
+              <p className="text-[hsl(var(--cv-subheading))] font-medium mt-1">Systems Engineer with MSc in Applied Physics and Electrical Engineering</p>
               <div className="flex flex-wrap justify-center sm:justify-start gap-x-5 gap-y-2 mt-4 text-sm text-muted-foreground">
                 <span className="flex items-center gap-1.5"><MapPin className="w-4 h-4" />Linköping, Sweden</span>
                 <a href="tel:+46734400134" className="flex items-center gap-1.5 hover:text-primary transition-colors"><Phone className="w-4 h-4" />+46 73 440 0134</a>
                 <a href="mailto:oloflj.linkoping@gmail.com" className="flex items-center gap-1.5 hover:text-primary transition-colors"><Mail className="w-4 h-4" />oloflj.linkoping@gmail.com</a>
-                <a href="https://github.com/" className="flex items-center gap-1.5 hover:text-primary transition-colors"><Github className="w-4 h-4" />GitHub</a>
+                <a href="https://github.com/olofljunggren" className="flex items-center gap-1.5 hover:text-primary transition-colors"><Github className="w-4 h-4" />GitHub</a>
               </div>
             </div>
           </div>
 
           <div className="mt-6 pt-6 border-t border-border">
             <p className="text-muted-foreground leading-relaxed">
-              Fifth-year master student specializing in Signal and Image Processing. Passionate about math and solving problems through programming, with strong experience in Git, MATLAB, Python, and C++. Also familiar with C, Rust, Bash, and JavaScript.
+               Engineer specialized in Signal and Image Processing. Passionate about math and solving problems through programming, with strong experience in Git, MATLAB, Python, and C++. Also familiar with C, Rust, Bash, and JavaScript.
             </p>
           </div>
 
